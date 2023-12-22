@@ -1,0 +1,8 @@
+# folder
+.parcel-cache
+dist
+node_modules
+
+# file
+README--.md
+
